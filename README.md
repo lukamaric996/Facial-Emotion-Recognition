@@ -45,6 +45,11 @@ Run the gui python script inside ```openCV_gui directory```
 $ cd openCV_gui
 $ python openCVapp.py
 ```
+You should be able to see something like this
+
+
+![Happy](https://github.com/lukamaric996/Facial-Emotion-Recognition/blob/main/images/happy.png)
+![Neutral](https://github.com/lukamaric996/Facial-Emotion-Recognition/blob/main/images/neutral.png)
 
 Deactivate the environment after use 
 
@@ -66,4 +71,4 @@ Library dependencies are listed in [requirements.txt](https://github.com/lukamar
 
 ## License
 
-[MIT](https://github.com/lukamaric996/Facial-Emotion-Recognition/LICENSE)
+[MIT](https://github.com/lukamaric996/Facial-Emotion-Recognition/blob/main/LICENSE)
